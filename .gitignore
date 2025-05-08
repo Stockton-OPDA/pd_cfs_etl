@@ -1,0 +1,7 @@
+.env
+__pycache__
+workflow.log
+.venv
+OLE DB Connection.odc
+logs
+run.bat
