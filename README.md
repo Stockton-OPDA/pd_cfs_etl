@@ -57,7 +57,7 @@ Each time the script is run, a new log file is generated in the root directory w
 - `/helpers/anonymize.py`: Contains the address anonymization function.
 - `/helpers/socrata_helpers.py`: Contains helper functions for SQL queries.
 - `/helpers/sql_helpers.py`: Contains helper functions for posting data to Socrata.
-- `/shapefile`: Contains the shape files containing the anonymized addresses.
+- `/shapefile`: Contains the shape files containing the anonymized addresses. (not provided in this GitHub - obtain from the spatial data team)
 - `.env`: File containing environment variables.
 - `FeatureFiles`, `Locators`, `PD_Data_Workflow.gdb`, 
 
